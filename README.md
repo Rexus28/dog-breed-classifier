@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rexus28/dog-breed-classifier/HEAD?filepath=%2Fvoila%2Frender%2Fdog_breed_classifier_app.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rexus28/dog-breed-classifier/HEAD?urlpath=%2Fvoila%2Frender%2Fdog_breed_classifier_app.ipynb)
 
 # dog breed classifier
 A jupyter-notebook that uses a trained convolutional neural-network to classifies an image of a dog by its breed. Based Lesson 5 of the fastai book, but uses the Stanford Dogs Dataset (http://vision.stanford.edu/aditya86/ImageNetDogs/) to focus on dog breeds only.
