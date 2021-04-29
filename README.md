@@ -133,3 +133,11 @@ year={2020},
 publisher={O'Reilly Media, Incorporated}
 }
 
+@misc{liu2017fully,
+title={Fully Convolutional Attention Networks for Fine-Grained Recognition}, 
+author={Xiao Liu and Tian Xia and Jiang Wang and Yi Yang and Feng Zhou and Yuanqing Lin},
+year={2017},
+eprint={1603.06765},
+archivePrefix={arXiv},
+primaryClass={cs.CV}
+}
